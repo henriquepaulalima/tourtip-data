@@ -1,0 +1,92 @@
+[
+    {
+        "id": "0",
+        "name": "Jack Rock Bar",
+        "address": "Av. do Contorno, 5623 - Funcionários, Belo Horizonte - MG, 30110-035",
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "../../assets/img/bh-photos/bares/jack-rock-bar-1.jpg",
+            "../../assets/img/bh-photos/bares/jack-rock-bar-2.jpg"
+        ]
+    },
+    {
+        "id": "1",
+        "name": "Bar Do Museu Clube Da Esquina",
+        "address": "R. Paraisópolis, 738 - Santa Tereza, Belo Horizonte - MG, 31010-330",
+        "link": "https://bardomuseuclubedaesquina.com.br",
+        "imgs": [
+            "../../assets/img/bh-photos/bares/bar-do-museu-clube-da-esquina-1.jpg",
+            "../../assets/img/bh-photos/bares/bar-do-museu-clube-da-esquina-2.jpg"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Bar Entre Folhas",
+        "address": "R. Maj. Lopes, 709 - São Pedro, Belo Horizonte - MG, 30330-050",
+        "link": "https://www.instagram.com/entrefolhas",
+        "imgs": [
+            "../../assets/img/bh-photos/bares/bar-entre-folhas-1.jpg",
+            "../../assets/img/bh-photos/bares/bar-entre-folhas-2.jpg"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Pompéu bar",
+        "address": "R. São Miguel, 779 - Itapoã, Belo Horizonte - MG, 31710-750",
+        "link": "https://www.instagram.com/barpompeu",
+        "imgs": [
+            "../../assets/img/bh-photos/bares/pompeu-bar-1.jpg",
+            "../../assets/img/bh-photos/bares/pompeu-bar-2.jpg"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Underground Black Pub",
+        "address": "Av. Itaú, 540 - Dom Cabral, Belo Horizonte - MG, 30535-012",
+        "link": "https://www.instagram.com/undergroundblackpub",
+        "imgs": [
+            "../../assets/img/bh-photos/bares/underground-black-pub-1.jpg",
+            "../../assets/img/bh-photos/bares/underground-black-pub-2.jpg"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Jângal",
+        "address": "R. Outono, 523 - Cruzeiro, Belo Horizonte - MG, 30310-020",
+        "link": "https://www.jangalbh.com",
+        "imgs": [
+            "../../assets/img/bh-photos/bares/jangal-1.jpg",
+            "../../assets/img/bh-photos/bares/jangal-2.jpg"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Café com Letras",
+        "address": "R. Antônio de Albuquerque, 781 - Savassi, Belo Horizonte - MG, 30112-010",
+        "link": "https://www.cafecomletras.com.br",
+        "imgs": [
+            "../../assets/img/bh-photos/bares/cafe-com-letras-1.jpg",
+            "../../assets/img/bh-photos/bares/cafe-com-letras-2.jpg"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Mr. Hoppy",
+        "address": "Praça Tiradentes, 41 - Funcionários, Belo Horizonte - MG, 30130-020",
+        "link": "https://www.instagram.com/accounts/login/?next=/mrhoppysion",
+        "imgs": [
+            "../../assets/img/bh-photos/bares/mr-hoppy-1.jpg",
+            "../../assets/img/bh-photos/bares/mr-hoppy-2.jpg"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Saruê",
+        "address": "Av. Altamiro Avelino Soares, 1257 - Castelo, Belo Horizonte - MG, 31330-000",
+        "link": "https://www.facebook.com/Saruebh",
+        "imgs": [
+            "../../assets/img/bh-photos/bares/sarue-1.jpg",
+            "../../assets/img/bh-photos/bares/sarue-2.jpg"
+        ]
+    }
+]

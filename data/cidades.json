@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "name": "Belo Horizonte",
+        "img": "../assets/img/cities/belo-horizonte.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Contagem",
+        "img": "../assets/img/cities/contagem.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Betim",
+        "img": "../assets/img/cities/betim.jpg"
+    }
+]
