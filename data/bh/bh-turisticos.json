@@ -7,7 +7,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/lagoa-da-pampulha-1.jpg",
             "../../assets/img/bh-photos/turismo/lagoa-da-pampulha-2.jpg"
-        ]
+        ],
+        "query": "Lagoa+da+Pampulha"
     },
     {
         "id": "1",
@@ -17,7 +18,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/mirante-do-mangabeiras-1.jpg",
             "../../assets/img/bh-photos/turismo/mirante-do-mangabeiras-2.jpg"
-        ]
+        ],
+        "query": "Mirante+do+Mangabeiras"
     },
     {
         "id": "2",
@@ -27,7 +29,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/praça-da-liberdade-1.jpg",
             "../../assets/img/bh-photos/turismo/praça-da-liberdade-2.jpg"
-        ]
+        ],
+        "query": "Praça+da+Liberdade"
     },
     {
         "id": "3",
@@ -37,7 +40,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/memorial-minas-gerais-vale-1.jpg",
             "../../assets/img/bh-photos/turismo/memorial-minas-gerais-vale-2.jpg"
-        ]
+        ],
+        "query": "Memorial+Minas+Gerais+Vale"
     },
     {
         "id": "4",
@@ -47,7 +51,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/praça-governador-israel-pinheiro-1.jpg",
             "../../assets/img/bh-photos/turismo/praça-governador-israel-pinheiro-2.jpg"
-        ]
+        ],
+        "query": "Praça+Governador+Israel+Pinheiro+(Praça+do+Papa)"
     },
     {
         "id": "5",
@@ -57,7 +62,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/parque-da-serra-do-curral-1.jpg",
             "../../assets/img/bh-photos/turismo/parque-da-serra-do-curral-2.jpg"
-        ]
+        ],
+        "query": "Municipal+Serra+do+Curral+Park"
     },
     {
         "id": "6",
@@ -67,7 +73,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/casa-do-baile-1.jpg",
             "../../assets/img/bh-photos/turismo/casa-do-baile-2.jpg"
-        ]
+        ],
+        "query": "Casa+do+Baile"
     },
     {
         "id": "7",
@@ -77,7 +84,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/museu-de-arte-da-pampulha-1.jpg",
             "../../assets/img/bh-photos/turismo/museu-da-arte-da-pampulha-2.jpg"
-        ]
+        ],
+        "query": "Pampulha+art+museum"
     },
     {
         "id": "8",
@@ -87,7 +95,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/centro-cultural-banco-do-brasil-1.jpg",
             "../../assets/img/bh-photos/turismo/centro-cultural-banco-do-brasil-2.jpg"
-        ]
+        ],
+        "query": "Bank+of+Brazil+Cultural+Center"
     },
     {
         "id": "9",
@@ -97,7 +106,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/parque-municipal-das-mangabeiras-1.jpg",
             "../../assets/img/bh-photos/turismo/parque-municipal-das-mangabeiras-2.jpg"
-        ]
+        ],
+        "query": "Municipal+Park+of+Mangabeiras"
     },
     {
         "id": "10",
@@ -107,7 +117,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/palacio-das-artes-1.jpg",
             "../../assets/img/bh-photos/turismo/palacio-das-artes-2.jpg"
-        ]
+        ],
+        "query": "Palácio+das+Artes"
     },
     {
         "id": "11",
@@ -117,7 +128,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/praça-da-savassi-1.jpg",
             "../../assets/img/bh-photos/turismo/praça-da-savassi-2.jpg"
-        ]
+        ],
+        "query": "Savassi+Square"
     },
     {
         "id": "12",
@@ -127,7 +139,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/espaço-do-conhecimento-ufmg-1.jpg",
             "../../assets/img/bh-photos/turismo/espaço-do-conhecimento-ufmg-2.jpg"
-        ]
+        ],
+        "query": "UFMG+Knowledge+Center"
     },
     {
         "id": "13",
@@ -137,7 +150,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/praça-sete-de-setembro-1.jpg",
             "../../assets/img/bh-photos/turismo/praça-sete-de-setembro-2.jpg"
-        ]
+        ],
+        "query": "Praça+Sete+de+Setembro"
     },
     {
         "id": "14",
@@ -147,7 +161,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/feira-hippie-1.jpg",
             "../../assets/img/bh-photos/turismo/feira-hippie-2.jpg"
-        ]
+        ],
+        "query": "Feira+Hippie+-+Vânia+Velloso+Pintura+Abstrata+(Feira+de+Artes+e+Artesanato+de+Belo+Horizonte)"
     },
     {
         "id": "15",
@@ -157,7 +172,8 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/mercado-central-1.jpg",
             "../../assets/img/bh-photos/turismo/mercado-central-2.jpg"
-        ]
+        ],
+        "query": "Mercado+Central+de+Belo+Horizonte"
     },
     {
         "id": "16",
@@ -167,6 +183,7 @@
         "imgs": [
             "../../assets/img/bh-photos/turismo/mineirao-1.jpg",
             "../../assets/img/bh-photos/turismo/mineirao-2.jpg"
-        ]
+        ],
+        "query": "Mineirão"
     }
 ]
