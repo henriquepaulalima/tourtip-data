@@ -32,21 +32,21 @@
     "categories": [
       {
         "name": "Pontos Turísticos",
-        "category": "turisticos",
+        "category": "bh_turisticos",
         "imgs": [
           "../assets/img/categories/pontos_turisticos.jpg"
         ]
       },
       {
         "name": "Parques Públicos",
-        "category": "parquespublicos",
+        "category": "bh_parquespublicos",
         "imgs": [
           "../assets/img/categories/parques_publicos.jpg"
         ]
       },
       {
         "name": "Bares",
-        "category": "bares",
+        "category": "bh_bares",
         "imgs": [
           "../assets/img/categories/bares.jpg"
         ]
@@ -86,21 +86,21 @@
     "categories": [
       {
         "name": "Parques Públicos",
-        "category": "parquespublicos",
+        "category": "ctg_parquespublicos",
         "imgs": [
           "../assets/img/categories/parques_publicos.jpg"
         ]
       },
       {
         "name": "Pontos Turísticos",
-        "category": "turisticos",
+        "category": "ctg_turisticos",
         "imgs": [
           "../assets/img/categories/pontos_turisticos.jpg"
         ]
       },
       {
         "name": "Restaurantes",
-        "category": "restaurantes",
+        "category": "ctg_restaurantes",
         "imgs": [
           "../assets/img/categories/restaurantes.jpg"
         ]
@@ -140,21 +140,21 @@
     "categories": [
       {
         "name": "Parques Públicos",
-        "category": "parquespublicos",
+        "category": "btm_parquespublicos",
         "imgs": [
           "../assets/img/categories/parques_publicos.jpg"
         ]
       },
       {
         "name": "Pontos Turísticos",
-        "category": "turisticos",
+        "category": "btm_turisticos",
         "imgs": [
           "../assets/img/categories/pontos_turisticos.jpg"
         ]
       },
       {
         "name": "Bares",
-        "category": "bares",
+        "category": "btm_bares",
         "imgs": [
           "../assets/img/categories/bares.jpg"
         ]
