@@ -8,7 +8,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/bares/bar-e-restaurante-tcha-tcha-tcha-1.jpg",
 			"../../assets/img/btm-photos/bares/bar-e-restaurante-tcha-tcha-tcha-2.jpg"
-		]
+		],
+		"query": "Bar+E+Restaurante+Tcha+Tcha+Tcha"
 	},
 	{
 		"id": "1",
@@ -19,7 +20,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/bares/dona-fulô-betim-1.jpg",
 			"../../assets/img/btm-photos/bares/dona-fulô-betim-2.jpg"
-		]
+		],
+		"query": "Dona+Fulô+Betim"
 	},
 	{
 		"id": "2",
@@ -30,7 +32,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/bares/marreta-gastrobar-1.jpg",
 			"../../assets/img/btm-photos/bares/marreta-gastrobar-2.jpg"
-		]
+		],
+		"query": "Marreta+Gastrobar"
 	},
 	{
 		"id": "3",
@@ -40,7 +43,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/bares/bar-do-renato-1.jpg",
 			"../../assets/img/btm-photos/bares/bar-do-renato-2.jpg"
-		]
+		],
+		"query": "Bar+Do+Renato"
 	},
 	{
 		"id": "4",
@@ -51,7 +55,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/bares/duarte-comedoria-1.jpg",
 			"../../assets/img/btm-photos/bares/duarte-comedoria-2.jpg"
-		]
+		],
+		"query": "Duarte+Comedoria"
 	},
 	{
 		"id": "5",
@@ -62,6 +67,7 @@
 		"imgs": [
 			"../../assets/img/btm-photos/bares/rosario-bar-1.jpg",
 			"../../assets/img/btm-photos/bares/rosario-bar-2.jpg"
-		]
+		],
+		"query": "Rosario+Bar"
 	}
 ]

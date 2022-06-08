@@ -7,7 +7,8 @@
         "imgs": [
             "../../assets/img/bh-photos/restaurantes/glouton-1.jpg",
             "../../assets/img/bh-photos/restaurantes/glouton-2.jpg"
-        ]
+        ],
+        "query": "Glouton"
     },
     {
         "id": "1",
@@ -17,7 +18,8 @@
         "imgs": [
             "../../assets/img/bh-photos/restaurantes/paladino-1.jpg",
             "../../assets/img/bh-photos/restaurantes/paladino-2.jpg"
-        ]
+        ],
+        "query": "Paladino"
     },
     {
         "id": "2",
@@ -27,7 +29,8 @@
         "imgs": [
             "../../assets/img/bh-photos/restaurantes/coco-bambu-bh-anchieta-1.jpg",
             "../../assets/img/bh-photos/restaurantes/coco-bambu-bh-anchieta-2.jpg"
-        ]
+        ],
+        "query": "Coco+Bambu+BH+Anchieta"
     },
     {
         "id": "3",
@@ -37,7 +40,8 @@
         "imgs": [
             "../../assets/img/bh-photos/restaurantes/gastro-hub-1.jpg",
             "../../assets/img/bh-photos/restaurantes/gastro-hub-2.jpg"
-        ]
+        ],
+        "query": "Gastr+Hub"
     },
     {
         "id": "4",
@@ -47,6 +51,7 @@
         "imgs": [
             "../../assets/img/bh-photos/restaurantes/xapuri-1.jpg",
             "../../assets/img/bh-photos/restaurantes/xapuri-2.jpg"
-        ]
+        ],
+        "query": "Restaurante+Xapuri"
     }
 ]

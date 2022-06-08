@@ -8,7 +8,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/restaurantes/espetaria-do-chef-1.jpg",
 			"../../assets/img/btm-photos/restaurantes/espetaria-do-chef-2.jpg"
-		]
+		],
+		"query": "Espeteria+do+Chef"
 	},
 	{
 		"id": "1",
@@ -18,7 +19,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/restaurantes/restaurante-do-hudson-1.jpg",
 			"../../assets/img/btm-photos/restaurantes/restaurante-do-hudson-2.jpg"
-		]
+		],
+		"query": "Restaurante+do+Hudson"
 	},
 	{
 		"id": "2",
@@ -29,7 +31,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/restaurantes/sr-malte-1.jpg",
 			"../../assets/img/btm-photos/restaurantes/sr-malte-2.jpg"
-		]
+		],
+		"query": "Sr.+Malte"
 	},
 	{
 		"id": "3",
@@ -40,7 +43,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/restaurantes/toca-do-surubim-1.jpg",
 			"../../assets/img/btm-photos/restaurantes/toca-do-surubim-2.jpg"
-		]
+		],
+		"query": "Toca+do+Surubim+Peixes+e+Frutos+do+Mar"
 	},
 	{
 		"id": "4",
@@ -51,7 +55,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/restaurantes/colher-de-pau-1.jpg",
 			"../../assets/img/btm-photos/restaurantes/colher-de-pau-2.jpg"
-		]
+		],
+		"query": "Colher+de+Pau+Restaurante+Churrascaria+e+Choperia"
 	},
 	{
 		"id": "5",
@@ -62,7 +67,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/restaurantes/restaurante-dona-maria-1.jpg",
 			"../../assets/img/btm-photos/restaurantes/restaurante-dona-maria-2.jpg"
-		]
+		],
+		"query": "Restaurante+Dona+Maria"
 	},
 	{
 		"id": "6",
@@ -73,7 +79,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/restaurantes/sushinara-1.jpg",
 			"../../assets/img/btm-photos/restaurantes/sushinara-2.jpg"
-		]
+		],
+		"query": "Sushinara+Comida+japonesa"
 	},
 	{
 		"id": "7",
@@ -84,6 +91,7 @@
 		"imgs": [
 			"../../assets/img/btm-photos/restaurantes/restaurante-porteira-velha-1.jpg",
 			"../../assets/img/btm-photos/restaurantes/restaurante-porteira-velha-2.jpg"
-		]
+		],
+		"query": "Restaurante+Porteira+Velha"
 	}
 ]

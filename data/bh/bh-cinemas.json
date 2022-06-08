@@ -7,7 +7,8 @@
         "imgs": [
             "../../assets/img/bh-photos/cinemas/bh-shopping-1.jpg",
             "../../assets/img/bh-photos/cinemas/bh-shopping-2.jpg"
-        ]
+        ],
+        "query": "BH+Shopping"
     },
     {
         "id": "1",
@@ -17,7 +18,8 @@
         "imgs": [
             "../../assets/img/bh-photos/cinemas/ponteiro-lar-shopping-1.jpg",
             "../../assets/img/bh-photos/cinemas/ponteiro-lar-shopping-2.jpg"
-        ]
+        ],
+        "query": "Ponteio+Lar+Shopping"
     },
     {
         "id": "2",
@@ -27,7 +29,8 @@
         "imgs": [
             "../../assets/img/bh-photos/cinemas/boulevard-shopping-bh-1.jpg",
             "../../assets/img/bh-photos/cinemas/boulevard-shopping-bh-2.jpg"
-        ]
+        ],
+        "query": "Boulevard+Shopping+BH"
     },
     {
         "id": "3",
@@ -37,7 +40,8 @@
         "imgs": [
             "../../assets/img/bh-photos/cinemas/shopping-estacao-bh-1.jpg",
             "../../assets/img/bh-photos/cinemas/shopping-estacao-bh-2.jpg"
-        ]
+        ],
+        "query": "Shopping+Estação+BH"
     },
     {
         "id": "4",
@@ -47,7 +51,8 @@
         "imgs": [
             "../../assets/img/bh-photos/cinemas/shopping-cidade-bh-1.jpg",
             "../../assets/img/bh-photos/cinemas/shopping-cidade-bh-2.jpg"
-        ]
+        ],
+        "query": "Shopping+cidade+BH"
     },
     {
         "id": "5",
@@ -57,7 +62,8 @@
         "imgs": [
             "../../assets/img/bh-photos/cinemas/minas-shopping-1.jpg",
             "../../assets/img/bh-photos/cinemas/minas-shopping-2.jpg"
-        ]
+        ],
+        "query": "Minas+Shopping"
     },
     {
         "id": "6",
@@ -67,7 +73,8 @@
         "imgs": [
             "../../assets/img/bh-photos/cinemas/diamondmall-1.jpg",
             "../../assets/img/bh-photos/cinemas/diamondmall-2.jpg"
-        ]
+        ],
+        "query": "DiamondMall"
     },
     {
         "id": "7",
@@ -77,7 +84,8 @@
         "imgs": [
             "../../assets/img/bh-photos/cinemas/patio-savassi-1.jpg",
             "../../assets/img/bh-photos/cinemas/patio-savassi-2.jpg"
-        ]
+        ],
+        "query": "Pátio+Savassi"
     },
     {
         "id": "8",
@@ -87,6 +95,7 @@
         "imgs": [
             "../../assets/img/bh-photos/cinemas/shopping-del-rey-1.jpg",
             "../../assets/img/bh-photos/cinemas/shopping-del-rey-2.jpg"
-        ]
+        ],
+        "query": "Shopping+Del+Rey"
     }
 ]

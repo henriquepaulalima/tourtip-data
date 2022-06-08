@@ -7,7 +7,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/museus/museu-paulo-araújo-moreira-gontijo-1.jpg",
 			"../../assets/img/btm-photos/museus/museu-paulo-araújo-moreira-gontijo-2.jpg"
-		]
+		],
+		"query": "Museu+Paulo+Araújo+Moreira+Gontijo"
 	},
 	{
 		"id": "1",
@@ -17,7 +18,8 @@
 		"imgs": [
 			"../../assets/img/btm-photos/museus/museu-luís-verganim-1.jpg",
 			"../../assets/img/btm-photos/museus/museu-luís-verganim-2.jpg"
-		]
+		],
+		"query": "Museu+Luís+Verganim"
 	},
 	{
 		"id": "2",
@@ -27,6 +29,7 @@
 		"imgs": [
 			"../../assets/img/btm-photos/museus/teatro-municipal-newton-amaral-franco-1.jpg",
 			"../../assets/img/btm-photos/museus/teatro-municipal-newton-amaral-franco-2.jpg"
-		]
+		],
+		"query": "Teatro+Municipal+Newton+Amaral+Franco"
 	}
 ]

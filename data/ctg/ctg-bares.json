@@ -7,7 +7,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/bares/MeiduMatoPub foto1.jpg",
             "../../assets/img/ctg-photos/bares/MeiduMatoPub foto2.jpg"
-        ]
+        ],
+        "query": "Mei+Du+Mato+Pub"
     },
     {
         "id": "1",
@@ -18,7 +19,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/bares/Benditodeckbar foto1.jpg",
             "../../assets/img/ctg-photos/bares/Benditodeckbar foto2.jpg"
-        ]
+        ],
+        "query": "Bendito+Deck+Bar"
     },
     {
         "id": "2",
@@ -29,7 +31,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/bares/SilvinhosBar3 foto1.jpg",
             "../../assets/img/ctg-photos/bares/SilvinhosBar3 foto1.jpg"
-        ]
+        ],
+        "query": "Silvinho's+Bar+3"
     },
     {
         "id": "3",
@@ -40,7 +43,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/bares/BarduAndre foto1.jpg",
             "../../assets/img/ctg-photos/bares/BarduAndre foto2.jpg"
-        ]
+        ],
+        "query": "Bar+Du+André"
     },
     {
         "id": "4",
@@ -51,7 +55,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/bares/BardaFatima foto1.jpg",
             "../../assets/img/ctg-photos/bares/BardaFatima foto2.jpg"
-        ]
+        ],
+        "query": "Bar+da+Fátima"
     },
     {
         "id": "5",
@@ -62,6 +67,7 @@
         "imgs": [
             "../../assets/img/ctg-photos/bares/SilvinhosBar2 foto1.jpg",
             "../../assets/img/ctg-photos/bares/SilvinhosBar2 foto1.jpg"
-        ]
+        ],
+        "query": "Silvinho's+Bar+2"
     }
 ]

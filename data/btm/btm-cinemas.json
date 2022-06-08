@@ -7,7 +7,8 @@
         "imgs": [
             "../../assets/img/btm-photos/cinemas/monte-carmo-shopping-1.jpg",
             "../../assets/img/btm-photos/cinemas/monte-carmo-shopping-2.jpg"
-        ]
+        ],
+        "query": "Monte+Carmo+Shopping"
     },
     {
         "id": "1",
@@ -17,6 +18,7 @@
         "imgs": [
             "../../assets/img/btm-photos/cinemas/partage-shopping-1.jpg",
             "../../assets/img/btm-photos/cinemas/partage-shopping-2.jpg"
-        ]
+        ],
+        "query": "Partage+Shopping"
     }
 ]

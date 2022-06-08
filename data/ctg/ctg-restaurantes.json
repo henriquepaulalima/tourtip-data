@@ -8,7 +8,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/restaurantes/CasaGustoRistoranteItaliano foto1.jpg",
             "../../assets/img/ctg-photos/restaurantes/CasaGustoRistoranteItaliano foto2.jpg"
-        ]
+        ],
+        "query": "Casa+Gusto+Ristorante+Italiano"
     },
     {
         "id": "1",
@@ -19,7 +20,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/restaurantes/RestauranteTradiçãodaRoça foto1.jpg",
             "../../assets/img/ctg-photos/restaurantes/RestauranteTradiçãodaRoça foto2.jpg"
-        ]
+        ],
+        "query": "Restaurante+Tradição+da+Roça"
     },
     {
         "id": "2",
@@ -30,7 +32,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/restaurantes/CumbucaRestaurante foto1.jpg",
             "../../assets/img/ctg-photos/restaurantes/CumbucaRestaurante foto2.jpg"
-        ]
+        ],
+        "query": "Cumbuca+Restaurante+e+Pizzaria"
     },
     {
         "id": "3",
@@ -41,7 +44,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/restaurantes/RestaurantePaulista foto1.jpg",
             "../../assets/img/ctg-photos/restaurantes/RestaurantePaulista foto2.jpg"
-        ]
+        ],
+        "query": "Restaurante+Paulista+Centro+Contagem"
     },
     {
         "id": "4",
@@ -52,7 +56,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/restaurantes/TropeirodoZezé foto1.jpg",
             "../../assets/img/ctg-photos/restaurantes/TropeirodoZezé foto2.jpg"
-        ]
+        ],
+        "query": "Tropeiro+do+Zezé"
     },
     {
         "id": "5",
@@ -63,6 +68,7 @@
         "imgs": [
             "../../assets/img/ctg-photos/restaurantes/ShizuokaRestaurante foto1.jpg",
             "../../assets/img/ctg-photos/restaurantes/ShizuokaRestaurante foto2.jpg"
-        ]
+        ],
+        "query": "Shizuoka+Restaurante+Japonês"
     }
 ]

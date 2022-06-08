@@ -7,7 +7,8 @@
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/parque-municipal-americo-renne-giannetti-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/parque-municipal-americo-renne-giannetti-2.jpg"
-        ]
+        ],
+        "query": "Parque+Municipal+Américo+Renné+Giannetti"
     },
     {
         "id": "1",
@@ -17,7 +18,8 @@
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/parque-das-mangabeiras-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/parque-das-mangabeiras-2.jpg"
-        ]
+        ],
+        "query": "Parque+Municipal+das+Mangabeiras"
     },
     {
         "id": "2",
@@ -27,7 +29,8 @@
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/parque-municipal-jacques-cousteau-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/parque-municipal-jacques-cousteau-2.jpg"
-        ]
+        ],
+        "query": "Parque+Municipal+Jacques+Cousteau"
     },
     {
         "id": "3",
@@ -37,7 +40,8 @@
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/parque-marcos-mazzoni-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/parque-marcos-mazzoni-2.jpg"
-        ]
+        ],
+        "query": "Parque+Ecológico+e+Cultural+Professor+Marcos+Mazzoni"
     },
     {
         "id": "4",
@@ -47,7 +51,8 @@
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/parque-fazenda-lagoa-nado-bh-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/parque-fazenda-lagoa-nado-bh-2.jpg"
-        ]
+        ],
+        "query": "Parque+Municipal+Fazenda+Lagoa+do+Nado"
     },
     {
         "id": "5",
@@ -57,17 +62,19 @@
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/parque-cassia-eller-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/parque-cassia-eller-2.jpg"
-        ]
+        ],
+        "query": "Parque+Cássia+Eller"
     },
     {
         "id": "6",
         "name": "Parque Ecológico Roberto Burle Marx(Parque das Águas)",
-        "address": "Av. Ximango, 809 - Flávio Marques Lisboa, Belo Horizonte – MG Terça a domingo, das 8h às 17h",
+        "address": "Av. Ximango, 809 - Flávio Marques Lisboa, Belo Horizonte - MG Terça a domingo, das 8h às 17h",
         "link": "Não ha links para esse local",
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/parque-das-aguas-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/parque-das-aguas-2.jpg"
-        ]
+        ],
+        "query": "Parque+Ecológico+Roberto+Burle+Marx+(Parque+das+Águas)"
     },
     {
         "id": "7",
@@ -77,7 +84,8 @@
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/parque-renato-azeredo-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/parque-renato-azeredo-2.jpg"
-        ]
+        ],
+        "query": "Parque+Renato+Azeredo"
     },
     {
         "id": "8",
@@ -87,7 +95,8 @@
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/parque-pampulha-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/parque-pampulha-2.jpg"
-        ]
+        ],
+        "query": "Parque+Ecológico+Francisco+Lins+do+Rêgo+(Pampulha)"
     },
     {
         "id": "9",
@@ -97,7 +106,8 @@
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/parque-amilcar-vianna-martins-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/parque-amilcar-vianna-martins-2.jpg"
-        ]
+        ],
+        "query": "Parque+Amilcar+Vianna+Martins"
     },
     {
         "id": "10",
@@ -107,6 +117,7 @@
         "imgs": [
             "../../assets/img/bh-photos/parquespublicos/fundação-de-parques-municipais-e-zoobotanica-de-belo-horizonte-1.jpg",
             "../../assets/img/bh-photos/parquespublicos/fundação-de-parques-municipais-e-zoobotanica-de-belo-horizonte-2.jpg"
-        ]
+        ],
+        "query": "Fundação+de+Parques+Municipais+e+Zoobotânica+de+Belo+Horizonte"
     }
 ]

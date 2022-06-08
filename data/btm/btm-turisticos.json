@@ -7,7 +7,8 @@
         "imgs": [
             "../../assets/img/btm-photos/turisticos/praca-milton-campos-1.jpg",
             "../../assets/img/btm-photos/turisticos/praca-milton-campos-2.jpg"
-        ]
+        ],
+        "query": "Praça+Milton+Campos"
     },
     {
         "id": "1",
@@ -17,7 +18,8 @@
         "imgs": [
             "../../assets/img/btm-photos/turisticos/praça-do-encontro-1.jpg",
             "../../assets/img/btm-photos/turisticos/praça-do-encontro-2.jpg"
-        ]
+        ],
+        "query": "Praça+do+Encontro"
     },
     {
         "id": "2",
@@ -27,7 +29,8 @@
         "imgs": [
             "../../assets/img/btm-photos/turisticos/casa-da-cultura-josephina-bento-1.jpg",
             "../../assets/img/btm-photos/turisticos/casa-da-cultura-josephina-bento-2.jpg"
-        ]
+        ],
+        "query": "Casa+da+Cultura+Josephina+Bento"
     },
     {
         "id": "3",
@@ -37,7 +40,8 @@
         "imgs": [
             "../../assets/img/btm-photos/turisticos/horto-municipal-homero-gomes-do-amaral-1.jpg",
             "../../assets/img/btm-photos/turisticos/horto-municipal-homero-gomes-do-amaral-2.jpg"
-        ]
+        ],
+        "query": "Horto+Municipal+Homero+Gomes+do+Amaral"
     },
     {
         "id": "4",
@@ -47,7 +51,8 @@
         "imgs": [
             "../../assets/img/btm-photos/turisticos/pista-de-skate-1.jpg",
             "../../assets/img/btm-photos/turisticos/pista-de-skate-2.jpg"
-        ]
+        ],
+        "query": "Pista+de+Skate"
     },
     {
         "id": "5",
@@ -58,6 +63,7 @@
         "imgs": [
             "../../assets/img/btm-photos/turisticos/kartódromo-internacional-de-betim-1.jpg",
             "../../assets/img/btm-photos/turisticos/kartódromo-internacional-de-betim-2.jpg"
-        ]
+        ],
+        "query": "Kartódromo+Internacional+de+Betim"
     }
 ]

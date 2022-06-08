@@ -7,7 +7,8 @@
         "imgs": [
             "../../assets/img/bh-photos/museus/museu-da-história-da-inquisição-1.jpg",
             "../../assets/img/bh-photos/museus/museu-da-história-da-inquisição-2.jpg"
-        ]
+        ],
+        "query": "Museu+da+história+da+Inquisição"
     },
     {
         "id": "1",
@@ -17,7 +18,8 @@
         "imgs": [
             "../../assets/img/bh-photos/museus/museu-historico-abilio-barreto-1.jpg",
             "../../assets/img/bh-photos/museus/museu-historico-abilio-barreto-2.jpg"
-        ]
+        ],
+        "query": "Museu+Histórico+Abílio+Barreto"
     },
     {
         "id": "2",
@@ -27,7 +29,8 @@
         "imgs": [
             "../../assets/img/bh-photos/museus/museu-mineiro-1.jpg",
             "../../assets/img/bh-photos/museus/museu-mineiro-2.jpg"
-        ]
+        ],
+        "query": "Museu+Mineiro"
     },
     {
         "id": "3",
@@ -37,7 +40,8 @@
         "imgs": [
             "../../assets/img/bh-photos/museus/museu-da-moda-1.jpg",
             "../../assets/img/bh-photos/museus/museu-da-moda-2.jpg"
-        ]
+        ],
+        "query": "Museu+da+Moda"
     },
     {
         "id": "4",
@@ -47,7 +51,8 @@
         "imgs": [
             "../../assets/img/bh-photos/museus/museu-de-artes-e-oficios-1.jpg",
             "../../assets/img/bh-photos/museus/museu-de-artes-e-oficios-2.jpg"
-        ]
+        ],
+        "query": "Museu+de+Artes+e+Ofícios"
     },
     {
         "id": "5",
@@ -57,7 +62,8 @@
         "imgs": [
             "../../assets/img/bh-photos/museus/museu-das-minas-e-do-metal-1.jpg",
             "../../assets/img/bh-photos/museus/museu-das-minas-e-do-metal-2.jpg"
-        ]
+        ],
+        "query": "Mm+Gerdau+Museum+Of+Mines+And+Metal"
     },
     {
         "id": "6",
@@ -67,7 +73,8 @@
         "imgs": [
             "../../assets/img/bh-photos/museus/museu-casa-kubitschek-1.jpg",
             "../../assets/img/bh-photos/museus/museu-casa-kubitschek-2.jpg"
-        ]
+        ],
+        "query": "Museu+Casa+Kubitschek"
     },
     {
         "id": "7",
@@ -77,7 +84,8 @@
         "imgs": [
             "../../assets/img/bh-photos/museus/museu-da-imagem-e-do-som-de-bh-1.jpg",
             "../../assets/img/bh-photos/museus/museu-da-imagem-e-do-som-de-bh-2.jpg"
-        ]
+        ],
+        "query": "Museu+da+Imagem+e+do+Som+de+Belo+Horizonte"
     },
     {
         "id": "8",
@@ -87,7 +95,8 @@
         "imgs": [
             "../../assets/img/bh-photos/museus/espaco-do-conhecimento-ufmg-1.jpg",
             "../../assets/img/bh-photos/museus/espaco-do-conhecimento-ufmg-2.jpg"
-        ]
+        ],
+        "query": "Espaço+do+Conhecimento+UFMG"
     },
     {
         "id": "9",
@@ -97,6 +106,7 @@
         "imgs": [
             "../../assets/img/bh-photos/museus/museu-de-ciencias-naturais-pucminas-1.jpg",
             "../../assets/img/bh-photos/museus/museu-de-ciencias-naturais-pucminas-2.jpg"
-        ]
+        ],
+        "query": "Museu+de+Ciências+Naturais+PUC+Minas"
     }
 ]

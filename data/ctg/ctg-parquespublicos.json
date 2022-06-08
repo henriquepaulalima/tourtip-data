@@ -8,7 +8,8 @@
     "imgs": [
       "../../assets/img/ctg-photos/parques/ParqueEcologicoEldorado foto1.jpg",
       "../../assets/img/ctg-photos/parques/ParqueEcologicoEldorado foto2.jpg"
-    ]
+    ],
+    "query": "Parque+Ecológico+Eldorado"
   },
   {
     "id": "1",
@@ -18,7 +19,8 @@
     "imgs": [
       "../../assets/img/ctg-photos/parques/ParqueFernãoDias foto1.jpg",
       "../../assets/img/ctg-photos/parques/ParqueFernãoDias foto2.jpg"
-    ]
+    ],
+    "query": "Parque+Fernão+Dias"
   },
   {
     "id": "2",
@@ -29,7 +31,8 @@
     "imgs": [
       "../../assets/img/ctg-photos/parques/ParqueEcológicoThiagoRodriguesRicardo foto1.jpg",
       "../../assets/img/ctg-photos/parques/ParqueEcológicoThiagoRodriguesRicardo foto2.jpg"
-    ]
+    ],
+    "query": "Parque+Ecológico+Thiago+Rodrigues+Ricardo"
   },
   {
     "id": "3",
@@ -39,7 +42,8 @@
     "imgs": [
       "../../assets/img/ctg-photos/parques/ParqueSapucaias foto1.jpg",
       "../../assets/img/ctg-photos/parques/ParqueSapucaias foto2.jpg"
-    ]
+    ],
+    "query": "Parque+Sapucaias"
   },
   {
     "id": "4",
@@ -49,7 +53,8 @@
     "imgs": [
       "../../assets/img/ctg-photos/parques/ParqueEcológicoAntônioPereiraCardoso foto1.jpg",
       "../../assets/img/ctg-photos/parques/ParqueEcológicoAntônioPereiraCardoso foto2.jpg"
-    ]
+    ],
+    "query": "Parque+Ecológico+Antônio+Pereira+Cardoso"
   },
   {
     "id": "5",
@@ -59,7 +64,8 @@
     "imgs": [
       "../../assets/img/ctg-photos/parques/PlaygroundParqueSarandi foto1.jpg",
       "../../assets/img/btm-photos/parques/PlaygroundParqueSarandi foto2.jpg"
-    ]
+    ],
+    "query": "Playground+Parque+Sarandi"
   },
   {
     "id": "6",
@@ -69,7 +75,8 @@
     "imgs": [
       "../../assets/img/ctg-photos/parques/ParquedasAmendoeiras foto1.jpg",
       "../../assets/img/ctg-photos/parques/ParquedasAmendoeiras foto2.jpg"
-    ]
+    ],
+    "query": "Parque+das+Amendoeiras"
   },
   {
     "id": "7",
@@ -79,7 +86,8 @@
     "imgs": [
       "../../assets/img/ctg-photos/parques/PraçadoSol foto1.jpg",
       "../../assets/img/ctg-photos/parques/PraçadoSol foto2.jpg"
-    ]
+    ],
+    "query": "Praça+do+Sol"
   },
   {
     "id": "8",
@@ -89,6 +97,7 @@
     "imgs": [
       "../../assets/img/ctg-photos/parques/ParqueMunicipalGentilDiniz foto1.jpg",
       "../../assets/img/ctg-photos/parques/ParqueMunicipalGentilDiniz foto2.jpg"
-    ]
+    ],
+    "query": "Parque+Municipal+Gentil+Diniz"
   }
 ]

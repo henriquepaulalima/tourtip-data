@@ -7,7 +7,8 @@
         "imgs": [
             "../../assets/img/bh-photos/bares/jack-rock-bar-1.jpg",
             "../../assets/img/bh-photos/bares/jack-rock-bar-2.jpg"
-        ]
+        ],
+        "query": "Jack+Rock+Bar"
     },
     {
         "id": "1",
@@ -17,7 +18,8 @@
         "imgs": [
             "../../assets/img/bh-photos/bares/bar-do-museu-clube-da-esquina-1.jpg",
             "../../assets/img/bh-photos/bares/bar-do-museu-clube-da-esquina-2.jpg"
-        ]
+        ],
+        "query": "Bar+Do+Museu+Clube+Da+Esquina"
     },
     {
         "id": "2",
@@ -27,7 +29,8 @@
         "imgs": [
             "../../assets/img/bh-photos/bares/bar-entre-folhas-1.jpg",
             "../../assets/img/bh-photos/bares/bar-entre-folhas-2.jpg"
-        ]
+        ],
+        "query": "Bar+Entre+Folhas"
     },
     {
         "id": "3",
@@ -37,7 +40,8 @@
         "imgs": [
             "../../assets/img/bh-photos/bares/pompeu-bar-1.jpg",
             "../../assets/img/bh-photos/bares/pompeu-bar-2.jpg"
-        ]
+        ],
+        "query": "Pompéu+bar"
     },
     {
         "id": "4",
@@ -47,7 +51,8 @@
         "imgs": [
             "../../assets/img/bh-photos/bares/underground-black-pub-1.jpg",
             "../../assets/img/bh-photos/bares/underground-black-pub-2.jpg"
-        ]
+        ],
+        "query": "Underground+Black+Pub"
     },
     {
         "id": "5",
@@ -57,7 +62,8 @@
         "imgs": [
             "../../assets/img/bh-photos/bares/jangal-1.jpg",
             "../../assets/img/bh-photos/bares/jangal-2.jpg"
-        ]
+        ],
+        "query": "Jângal"
     },
     {
         "id": "6",
@@ -67,7 +73,8 @@
         "imgs": [
             "../../assets/img/bh-photos/bares/cafe-com-letras-1.jpg",
             "../../assets/img/bh-photos/bares/cafe-com-letras-2.jpg"
-        ]
+        ],
+        "query": "Café+com+Letras"
     },
     {
         "id": "7",
@@ -77,7 +84,8 @@
         "imgs": [
             "../../assets/img/bh-photos/bares/mr-hoppy-1.jpg",
             "../../assets/img/bh-photos/bares/mr-hoppy-2.jpg"
-        ]
+        ],
+        "query": "Mr.+Hoppy+-+Prado+-+Beer+%26+Burger"
     },
     {
         "id": "8",
@@ -87,6 +95,7 @@
         "imgs": [
             "../../assets/img/bh-photos/bares/sarue-1.jpg",
             "../../assets/img/bh-photos/bares/sarue-2.jpg"
-        ]
+        ],
+        "query": "Saruê"
     }
 ]

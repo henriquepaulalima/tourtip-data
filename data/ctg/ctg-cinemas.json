@@ -8,7 +8,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/cinemas/CineartShopping foto1.jpg",
             "../../assets/img/ctg-photos/cinemas/CineartShopping foto2.jpg"
-        ]
+        ],
+        "query": "Cineart+Shopping+Contagem"
     },
     {
         "id": "1",
@@ -19,7 +20,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/cinemas/CineartItaúPower foto1.jpg",
             "../../assets/img/ctg-photos/cinemas/CineartItaúPower foto2.jpg"
-        ]
+        ],
+        "query": "Cineart+ItaúPower+Shopping"
     },
     {
         "id": "2",
@@ -30,7 +32,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/cinemas/CineserclaBIG foto1.jpg",
             "../../assets/img/ctg-photos/cinemas/CineserclaBIG foto2.jpg"
-        ]
+        ],
+        "query": "Cinesercla+BIG"
     },
     {
         "id": "3",
@@ -40,6 +43,7 @@
         "imgs": [
             "../../assets/img/ctg-photos/cinemas/ParqueSapucaias foto1.jpg",
             "../../assets/img/ctg-photos/cinemas/ParqueSapucaias foto2.jpg"
-        ]
+        ],
+        "query": "Parque+Sapucaias"
     }
 ]

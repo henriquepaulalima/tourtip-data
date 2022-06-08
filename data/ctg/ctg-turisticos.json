@@ -8,7 +8,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/turismo/IgrejaMatrizdeSãoGonçalo foto1.jpg",
             "../../assets/img/ctg-photos/turismo/IgrejaMatrizdeSãoGonçalo foto2.jpg"
-        ]
+        ],
+        "query": "Igreja+Matriz+de+São+Gonçalo"
     },
     {
         "id": "1",
@@ -19,7 +20,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/turismo/CasadaCulturaNairMendesMoreira foto1.jpg",
             "../../assets/img/ctg-photos/turismo/CasadaCulturaNairMendesMoreira foto2.jpg"
-        ]
+        ],
+        "query": "Casa+da+Cultura+Nair+Mendes+Moreira"
     },
     {
         "id": "2",
@@ -30,7 +32,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/turismo/CentroCultural foto1.jpg",
             "../../assets/img/ctg-photos/turismo/CentroCultural foto2.jpg"
-        ]
+        ],
+        "query": "Centro+Cultural+Prefeito+Francisco+Firmo+de+mattos"
     },
     {
         "id": "3",
@@ -40,7 +43,8 @@
         "imgs": [
             "../../assets/img/ctg-photos/turismo/FeiradeArtesanatoEldorado foto1.jpg",
             "../../assets/img/ctg-photos/turismo/FeiradeArtesanatoEldorado foto2.jpg"
-        ]
+        ],
+        "query": "Feira+de+Artesanato+Eldorado"
     },
     {
         "id": "3",
@@ -50,6 +54,7 @@
         "imgs": [
             "../../assets/img/ctg-photos/turismo/CasadosCacos foto1.jpg",
             "../../assets/img/ctg-photos/turismo/CasadosCacos foto2.jpg"
-        ]
+        ],
+        "query": "Casa+dos+Cacos"
     }
 ]
