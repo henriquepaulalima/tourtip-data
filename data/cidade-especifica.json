@@ -32,6 +32,7 @@
     "categories": [
       {
         "name": "Pontos Turísticos",
+        "city": "BH",
         "category": "bh_turisticos",
         "imgs": [
           "../assets/img/categories/pontos_turisticos.jpg"
@@ -39,6 +40,7 @@
       },
       {
         "name": "Parques Públicos",
+        "city": "BH",
         "category": "bh_parquespublicos",
         "imgs": [
           "../assets/img/categories/parques_publicos.jpg"
@@ -46,6 +48,7 @@
       },
       {
         "name": "Bares",
+        "city": "BH",
         "category": "bh_bares",
         "imgs": [
           "../assets/img/categories/bares.jpg"
@@ -86,6 +89,7 @@
     "categories": [
       {
         "name": "Parques Públicos",
+        "city": "Contagem",
         "category": "ctg_parquespublicos",
         "imgs": [
           "../assets/img/categories/parques_publicos.jpg"
@@ -93,6 +97,7 @@
       },
       {
         "name": "Pontos Turísticos",
+        "city": "Contagem",
         "category": "ctg_turisticos",
         "imgs": [
           "../assets/img/categories/pontos_turisticos.jpg"
@@ -100,6 +105,7 @@
       },
       {
         "name": "Restaurantes",
+        "city": "Contagem",
         "category": "ctg_restaurantes",
         "imgs": [
           "../assets/img/categories/restaurantes.jpg"
@@ -140,6 +146,7 @@
     "categories": [
       {
         "name": "Parques Públicos",
+        "city": "Betim",
         "category": "btm_parquespublicos",
         "imgs": [
           "../assets/img/categories/parques_publicos.jpg"
@@ -147,6 +154,7 @@
       },
       {
         "name": "Pontos Turísticos",
+        "city": "Betim",
         "category": "btm_turisticos",
         "imgs": [
           "../assets/img/categories/pontos_turisticos.jpg"
@@ -154,6 +162,7 @@
       },
       {
         "name": "Bares",
+        "city": "Betim",
         "category": "btm_bares",
         "imgs": [
           "../assets/img/categories/bares.jpg"
