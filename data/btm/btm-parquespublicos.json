@@ -1,6 +1,8 @@
 [
     {
         "id": "0",
+        "city": "Betim",
+        "category": "Parques Publicos",
         "name": "Parque Ecológico Municipal Cléo Barbosa",
         "address": "Avenida Palmério Ferreira Neto - Parque das Cachoeiras, Betim - MG, 32600-760",
         "contact": "Telefone: (31) 3512-3171",

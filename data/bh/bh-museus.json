@@ -1,6 +1,8 @@
 [
     {
         "id": "0",
+        "city": "BH",
+        "category": "Museus",
         "name": "Museu da história da Inquisição",
         "address": "R. Cândido Naves, 55 - Ouro Preto, Belo Horizonte - MG, 31310-460 Contato:  (31) 2512-5194",
         "link": "http://www.museudainquisicao.org.br",
@@ -12,6 +14,8 @@
     },
     {
         "id": "1",
+        "city": "BH",
+        "category": "Museus",
         "name": "Museu Histórico Abílio Barreto",
         "address": "Av. Prudente de Morais, 202 - Cidade Jardim, Belo Horizonte - MG, 30380-002",
         "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/mhab",
@@ -23,6 +27,8 @@
     },
     {
         "id": "2",
+        "city": "BH",
+        "category": "Museus",
         "name": "Museu Mineiro",
         "address": "Av. João Pinheiro, 342 - Lourdes, Belo Horizonte - MG, 30130-180",
         "link": "http://www.circuitoliberdade.mg.gov.br/pt-br/espacos-br/museu-mineiro",
@@ -34,6 +40,8 @@
     },
     {
         "id": "3",
+        "city": "BH",
+        "category": "Museus",
         "name": "Museu da Moda",
         "address": "R. da Bahia, 1149 - Centro, Belo Horizonte - MG, 30160-011",
         "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/mumo",
@@ -45,6 +53,8 @@
     },
     {
         "id": "4",
+        "city": "BH",
+        "category": "Museus",
         "name": "Museu de Artes e Ofícios",
         "address": "Praça Rui Barbosa, 600 - Centro, Belo Horizonte - MG, 30160-000",
         "link": "http://mao.org.br",
@@ -56,6 +66,8 @@
     },
     {
         "id": "5",
+        "city": "BH",
+        "category": "Museus",
         "name": "MM Gerdau - Museu das Minas e do Metal",
         "address": "Praça da Liberdade, s/n - Funcionários, Belo Horizonte - MG, 30140-010",
         "link": "https://mmgerdau.org.br",
@@ -67,6 +79,8 @@
     },
     {
         "id": "6",
+        "city": "BH",
+        "category": "Museus",
         "name": "Museu Casa Kubitschek",
         "address": "Av. Otacílio Negrão de Lima, 4188 - Bandeirantes (Pampulha), Belo Horizonte - MG, 03165-450",
         "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/casakubitschek",
@@ -78,6 +92,8 @@
     },
     {
         "id": "7",
+        "city": "BH",
+        "category": "Museus",
         "name": "Museu da Imagem e do Som de Belo Horizonte",
         "address": "Av. Álvares Cabral, 560 - Lourdes, Belo Horizonte - MG, 30170-002",
         "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/imagemesom",
@@ -89,6 +105,8 @@
     },
     {
         "id": "8",
+        "city": "BH",
+        "category": "Museus",
         "name": "Espaço do Conhecimento UFMG",
         "address": "Praça da Liberdade, 700 - Funcionários, Belo Horizonte - MG, 30140-010",
         "link": "https://www.ufmg.br/espacodoconhecimento",
@@ -100,6 +118,8 @@
     },
     {
         "id": "9",
+        "city": "BH",
+        "category": "Museus",
         "name": "Museu de Ciências Naturais PUC Minas",
         "address": "R. Dom José Gaspar, 290 - Coração Eucarístico, Belo Horizonte - MG, 30535-901",
         "link": "https://www.pucminas.br/destaques/Paginas/museu.aspx",

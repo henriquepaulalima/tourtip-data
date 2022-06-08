@@ -1,6 +1,8 @@
 [
     {
         "id": "0",
+        "city": "BH",
+        "category": "Restaurantes",
         "name": "Glouton",
         "address": "Rua Bárbara Heliodora, 59 - Lourdes, Belo Horizonte - MG, 30180-130",
         "link": "https://www.glouton.com.br",
@@ -12,6 +14,8 @@
     },
     {
         "id": "1",
+        "city": "BH",
+        "category": "Restaurantes",
         "name": "Paladino",
         "address": "Av. Gildo Macedo Lacerda, 300 - Braúnas, Belo Horizonte - MG, 31365-745",
         "link": "http://restaurantepaladino.com.br",
@@ -23,6 +27,8 @@
     },
     {
         "id": "2",
+        "city": "BH",
+        "category": "Restaurantes",
         "name": "Coco Bambu BH Anchieta",
         "address": "R. Francisco Deslandes, 900 - Anchieta, Belo Horizonte - MG, 30310-530",
         "link": "https://cocobambu.com/unidades/belo-horizonte",
@@ -34,6 +40,8 @@
     },
     {
         "id": "3",
+        "city": "BH",
+        "category": "Restaurantes",
         "name": "Gastrô Hub",
         "address": "Av. do Contorno, 4667 - Serra, Belo Horizonte - MG, 30220-040",
         "link": "https://www.instagram.com/accounts/login/?next=/gastrohub.bh",
@@ -45,6 +53,8 @@
     },
     {
         "id": "4",
+        "city": "BH",
+        "category": "Restaurantes",
         "name": "Restaurante Xapuri",
         "address": "Rua Mandacarú, 260 - Trevo, Belo Horizonte - MG, 31370-270",
         "link": "https://restaurantexapuri.negocio.site/?utm_source=gmb&utm_medium=referral",

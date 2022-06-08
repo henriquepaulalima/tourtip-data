@@ -1,6 +1,8 @@
 [
     {
         "id": "0",
+        "city": "Contagem",
+        "category": "Pontos Turísticos",
         "name": "Igreja Matriz de São Gonçalo",
         "address": "R. Bueno Brandão, 40 - Centro, Contagem MG, 32041-310",
         "contact": "(31) 3398-1504",
@@ -13,6 +15,8 @@
     },
     {
         "id": "1",
+        "city": "Contagem",
+        "category": "Pontos Turísticos",
         "name": "Casa da Cultura Nair Mendes Moreira",
         "address": " Praça Vereador Josias Belém, 01 - Sede, Contagem MG, 32017-670",
         "contact": "(31) 3352-5323",
@@ -25,6 +29,8 @@
     },
     {
         "id": "2",
+        "city": "Contagem",
+        "category": "Pontos Turísticos",
         "name": "Centro Cultural Prefeito Francisco Firmo de Mattos",
         "address": "R. Dr. Cassiano, 120 - Centro, Contagem MG, 32017-235",
         "contact": "(31) 3352-5357",
@@ -37,6 +43,8 @@
     },
     {
         "id": "3",
+        "city": "Contagem",
+        "category": "Pontos Turísticos",
         "name": "Feira de Artesanato Eldorado",
         "address": "Rua Portugal - Jardim Vera Cruz, Contagem MG, 32265-320",
         "link": "http://www.cmc.mg.gov.br/?p=10097",
@@ -48,6 +56,8 @@
     },
     {
         "id": "3",
+        "city": "Contagem",
+        "category": "Pontos Turísticos",
         "name": "Casa dos Cacos",
         "address": "R. Inês Glansman de Almeida, 132 - Fonte Grande, Contagem MG, 32013-380",
         "link": "Não ha links para esse local",

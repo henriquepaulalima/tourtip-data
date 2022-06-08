@@ -1,6 +1,8 @@
 [
     {
         "id": "0",
+        "city": "BH",
+        "category": "Bares",
         "name": "Jack Rock Bar",
         "address": "Av. do Contorno, 5623 - Funcionários, Belo Horizonte - MG, 30110-035",
         "link": "Não ha links para esse local",
@@ -12,6 +14,8 @@
     },
     {
         "id": "1",
+        "city": "BH",
+        "category": "Bares",
         "name": "Bar Do Museu Clube Da Esquina",
         "address": "R. Paraisópolis, 738 - Santa Tereza, Belo Horizonte - MG, 31010-330",
         "link": "https://bardomuseuclubedaesquina.com.br",
@@ -23,6 +27,8 @@
     },
     {
         "id": "2",
+        "city": "BH",
+        "category": "Bares",
         "name": "Bar Entre Folhas",
         "address": "R. Maj. Lopes, 709 - São Pedro, Belo Horizonte - MG, 30330-050",
         "link": "https://www.instagram.com/entrefolhas",
@@ -34,6 +40,8 @@
     },
     {
         "id": "3",
+        "city": "BH",
+        "category": "Bares",
         "name": "Pompéu bar",
         "address": "R. São Miguel, 779 - Itapoã, Belo Horizonte - MG, 31710-750",
         "link": "https://www.instagram.com/barpompeu",
@@ -45,6 +53,8 @@
     },
     {
         "id": "4",
+        "city": "BH",
+        "category": "Bares",
         "name": "Underground Black Pub",
         "address": "Av. Itaú, 540 - Dom Cabral, Belo Horizonte - MG, 30535-012",
         "link": "https://www.instagram.com/undergroundblackpub",
@@ -56,6 +66,8 @@
     },
     {
         "id": "5",
+        "city": "BH",
+        "category": "Bares",
         "name": "Jângal",
         "address": "R. Outono, 523 - Cruzeiro, Belo Horizonte - MG, 30310-020",
         "link": "https://www.jangalbh.com",
@@ -67,6 +79,8 @@
     },
     {
         "id": "6",
+        "city": "BH",
+        "category": "Bares",
         "name": "Café com Letras",
         "address": "R. Antônio de Albuquerque, 781 - Savassi, Belo Horizonte - MG, 30112-010",
         "link": "https://www.cafecomletras.com.br",
@@ -78,6 +92,8 @@
     },
     {
         "id": "7",
+        "city": "BH",
+        "category": "Bares",
         "name": "Mr. Hoppy",
         "address": "Praça Tiradentes, 41 - Funcionários, Belo Horizonte - MG, 30130-020",
         "link": "https://www.instagram.com/accounts/login/?next=/mrhoppysion",
@@ -89,6 +105,8 @@
     },
     {
         "id": "8",
+        "city": "BH",
+        "category": "Bares",
         "name": "Saruê",
         "address": "Av. Altamiro Avelino Soares, 1257 - Castelo, Belo Horizonte - MG, 31330-000",
         "link": "https://www.facebook.com/Saruebh",

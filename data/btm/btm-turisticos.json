@@ -1,6 +1,8 @@
 [
     {
         "id": "0",
+        "city": "Betim",
+        "category": "Pontos Turísticos",
         "name": "Praça Milton Campos",
         "address": "Endereço: entre, Av. Edméia Matos Lazaroti, Av. Juiz Marco Túlio Isaac, Betim - MG, 32550-770",
         "link": "Não ha links para esse local",
@@ -12,6 +14,8 @@
     },
     {
         "id": "1",
+        "city": "Betim",
+        "category": "Pontos Turísticos",
         "name": "Praça do Encontro",
         "address": "Endereço: Praça Milton Campos, s/n - centro, Betim- MG - Aberto 24 horas",
         "link": "Não ha links para esse local",
@@ -23,6 +27,8 @@
     },
     {
         "id": "2",
+        "city": "Betim",
+        "category": "Pontos Turísticos",
         "name": "Casa da Cultura Josephina Bento",
         "address": "Av. Padre Osório Braga, 18 - Centro, Betim - MG, 32600-174 ",
         "link": "Não ha links para esse local",
@@ -34,6 +40,8 @@
     },
     {
         "id": "3",
+        "city": "Betim",
+        "category": "Pontos Turísticos",
         "name": "Horto Municipal Homero Gomes do Amaral",
         "address": "R. Redelvim Andrade, 300 - Horto, Betim - MG, 32604-142, próximo ao local: Ginásio Poliesportivo Divino Braga, Pista de Skate, Praça do Encontro. Entrada franca.",
         "link": "Não ha links para esse local",
@@ -45,6 +53,8 @@
     },
     {
         "id": "4",
+        "city": "Betim",
+        "category": "Pontos Turísticos",
         "name": "Pista de Skate",
         "address": "Entre avenida Edmeia Matos Lazzarotti e rua Redelvim Andrade - Angola, Betim, Entrada franca.",
         "link": "Não ha links para esse local",
@@ -56,6 +66,8 @@
     },
     {
         "id": "5",
+        "city": "Betim",
+        "category": "Pontos Turísticos",
         "name": "Kartódromo Internacional de Betim",
         "address": "AV. . Adutora Várzea das Flores, 477 - Itacolomi, Betim - MG, 32672-586.",
         "contact": "Telefone: (31) 3511-2373 (31) 99884-2898",

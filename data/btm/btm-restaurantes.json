@@ -1,6 +1,8 @@
 [
 	{
 		"id": "0",
+		"city": "Betim",
+		"category": "Restaurantes",
 		"name": "Espeteria do Chef",
 		"address": "Avenida Juiz Marco Tulio Isaac, 11145 11305, Betim, Minas Gerais 32677-055",
 		"contact": "(31) 99556-8100",
@@ -13,6 +15,8 @@
 	},
 	{
 		"id": "1",
+		"city": "Betim",
+		"category": "Restaurantes",
 		"name": "Restaurante do Hudson",
 		"address": "Av. Pres, Av. Juscelino Kubitschek, 640 - Centro, Betim - MG, 32510-000",
 		"link": "http://www.restaurantedohudson.com.br/",
@@ -24,6 +28,8 @@
 	},
 	{
 		"id": "2",
+		"city": "Betim",
+		"category": "Restaurantes",
 		"name": "Sr. Malte",
 		"address": "Praça Milton Campos, 28 - Centro, Betim - MG, 32600-134",
 		"contact": "(31) 97546-7514",
@@ -36,6 +42,8 @@
 	},
 	{
 		"id": "3",
+		"city": "Betim",
+		"category": "Restaurantes",
 		"name": "Toca do Surubim Peixes e Frutos do Mar",
 		"address": "P- R. Leão Rizel - Vila Recreio, Betim - MG, 32650-390",
 		"contact": "(31) 2523-9509",
@@ -48,6 +56,8 @@
 	},
 	{
 		"id": "4",
+		"city": "Betim",
+		"category": "Restaurantes",
 		"name": "Colher de Pau - Restaurante, Churrascaria e Choperia",
 		"address": "R. Marajó, nº 1 - Brasiléia, Betim - MG, 32550-770",
 		"contact": "(31) 98212-8121",
@@ -60,6 +70,8 @@
 	},
 	{
 		"id": "5",
+		"city": "Betim",
+		"category": "Restaurantes",
 		"name": "Restaurante Dona Maria",
 		"address": "Avenida Edméia Mattos Lazzarotti, 2770, Ingá Alto - Horto, Betim - MG, 32604-446",
 		"contact": "(31) 2572-1247",
@@ -72,6 +84,8 @@
 	},
 	{
 		"id": "6",
+		"city": "Betim",
+		"category": "Restaurantes",
 		"name": "Sushinara - Comida japonesa",
 		"address": "Av. Juiz Marco Túlio Isaac, 1119 - Loja 1009 - Ingá Alto, Betim - MG, 32604-345",
 		"contact": "(31) 98807-4571",
@@ -84,6 +98,8 @@
 	},
 	{
 		"id": "7",
+		"city": "Betim",
+		"category": "Restaurantes",
 		"name": "Restaurante Porteira Velha",
 		"address": "Rod 381, 489 KM - Paulo Camilo, Betim - MG, 32510-030",
 		"contact": "(31) 3592-3600",
